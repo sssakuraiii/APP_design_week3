@@ -797,6 +797,7 @@
   width:390px;
   height:480px;
   overflow:hidden;
+  visibility:hidden;
 }
 #u29_state0 {
   border-width:0px;
